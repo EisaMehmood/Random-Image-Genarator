@@ -1,0 +1,31 @@
+body
+{
+background-image: url(joey-kyber-Mg2iKRWpiCk-unsplash.jpg);
+background-size: cover;
+opacity: 0.9;
+display: flex;
+justify-content: center;
+align-items: center;
+margin: 30px;
+
+}
+.Img-container
+{
+    padding: 10px;
+    border-radius: 20px;
+    margin: 40px;
+   background-image : url(joey-kyber-Mg2iKRWpiCk-unsplash.jpg);
+   background-size: cover;
+   cursor: pointer;
+    width: 800px;
+    height: 500px;
+    display: flex;
+justify-content: center;
+align-items: center;
+    background-color: aliceblue;
+}
+h4{
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 20px;
+}
